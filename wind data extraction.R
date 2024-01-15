@@ -54,7 +54,7 @@ wind_sf$y = coor$Y
 wind_nogeom = st_drop_geometry(wind_sf) #get rid of geometry but keep all other attributes
 wind_nogeom=na.omit(wind_nogeom)
 
-gs <- gstat(formula=wind~1, locations=~x+y, data=wind_nogeom, nmax=Inf, set=list(idp=5))
+gs <- gstat(formula=wind~1, locations=~x+y, data=wind_nogeom, nmax=Inf, set=list(idp=7))
 idw <- interpolate(raster_template, gs, debug.level=0)#interpolate is the function comes with terra
 #idw_results[[as.character(i)]] <- idw
 
