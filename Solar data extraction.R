@@ -87,7 +87,7 @@ for(i in 1:180) {
   solar_sf$y=coor$Y
   solar_nogeom=st_drop_geometry(solar_sf)
   solar_nogeom=na.omit(solar_nogeom)
-  gs <-gstat(formula=ssrd_kwh~1, locations=~x+y, data=solar_nogeom, nmax=Inf,set=list(idp=5))
+  gs <-gstat(formula=ssrd_kwh~1, locations=~x+y, data=solar_nogeom, nmax=Inf,set=list(idp=7))
   #Interpolate
   idw <- interpolate(raster_template, gs, debug.level=0)
   idw_results[[as.character(i)]] <- idw
