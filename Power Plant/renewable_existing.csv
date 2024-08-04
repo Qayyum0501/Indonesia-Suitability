@@ -1,0 +1,80 @@
+plant,capacity_mw,status,longitude,latitude,type,links
+Musi Green Hybrid,10.5,construction,103.27578,-3.04149,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+Cirata Floating PV,145,construction,107.33717,-6.69249,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+West Kalimantan,100,planned,109.354,-0.0596,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+Lampung PV + storage,100,planned,104.7308,-2.9708,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+Singkarak,90,planned,100.55679,-0.61163,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+Bangka,10,planned,105.22037,-2.04238,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+Bali 2 x 25MW,50,planned,114.54729,-8.2134,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+Saguling,60,planned,107.38873,-6.91761,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+Ombilin,100,construction,100.55238,-0.55077,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+Tanjung Enim,100,construction,104.7308,-2.9708,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+Batam,1692,planned,104.0631,1.1329,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+Labuan Bajo,70,planned,120.5982,-8.5101,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+West Java,50,planned,108.1781,-6.4511,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+Central Java,50,planned,109.5734,-7.6333,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+East Java,50,planned,112.238,-7.5389,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+Tambora,10,planned,117.74368,-8.19037,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+West Java,5,planned,108.1781,-6.4511,solar,https://assets.bbhub.io/professional/sites/24/BNEF-IESR-Scaling-Up-Solar-in-Indonesia_FINAL.pdf
+Likupang,15,Existing,1.65902330946025,125.096436478922,solar,
+Oelpuah,5,Existing,-10.1469022863725,123.748765552075,solar,
+Pringgabaya,7,Existing,-8.51875159455433,116.634200816552,solar,
+Sambelia,5,Existing,-8.43468558699465,116.693175740402,solar,
+Selong,7,Existing,-8.65610319576739,116.575213908826,solar,
+Maumere,2,Existing,-8.6287993213496,122.328115965536,solar,
+Sengkol,5,Existing,-8.7937142691015,116.296183239725,solar,
+Kayan,9000,planned,117.8146,2.6048,Hydro,https://www.power-technology.com/marketdata/kayan-hydro-power-plant-indonesia/
+Cisokan,1040,planned,107.2173,-6.9458,Hydro,https://en.wikipedia.org/wiki/Upper_Cisokan_Pumped_Storage_Power_Plant
+Asahan III,174,planned,100.0985,-2.6767,Hydro,https://www.idnfinancials.com/news/43203/asahan-hydropower-plant-optimistic-operate
+Sukabumi,150,planned,106.9177,-6.9701,wind,https://www.thejakartapost.com/opinion/2022/12/26/renewable-energy-bill-an-ambitious-attempt-at-energy-transition.html
+Asahan I,180,existing,99.259,2.5113,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Bakaru,126,existing,119.6042,-3.1141,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Balambano,130,existing,121.357,-2.5213,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Bengkok+Dago/saguling,3.85,existing,107.5564,-6.6247,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Besai - Way Kanan,92.8,existing,104.8051,-4.9822,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Bili bili,20.1,existing,119.5817,-5.2779,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Cikalong/saguling,19.2,existing,107.6186,-6.9039,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+CirataI & II,1008,existing,107.3671,-6.7004,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Darajat 1,55,existing,107.7394,-7.2173,Geothermal,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Darajat 2  3,215,existing,107.7394,-7.2173,Geothermal,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Dieng,60,existing,109.9119,-7.2061,Geothermal,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Giringan - Pamekasan,3.2,existing,111.6715,-7.7201,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Golang - Pamekasan,2.7,existing,111.1317,-8.1408,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Gunung Salak,375,existing,106.648,-6.7416,Geothermal,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Jatiluhur,186,existing,107.389,-6.523,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Kamojang 1  2  3,140,existing,107.4553,-6.4239,Geothermal,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Kamojang 4,60,existing,107.4553,-6.4239,Geothermal,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Ketenger / mrica,8.04,existing,109.2778,-7.5097,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Klambu/Mrica,1.117,existing,110.7964,-7.0069,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Koto Panjang Kampar,114,existing,100.8814,0.2905,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Kracak/saguling,18.9,existing,107.6186,-6.9039,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Lahendong (Binary Cycle),20,existing,124.8392,1.3346,Geothermal,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Lahendong IV,80,existing,124.8225,1.2542,Geothermal,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Lamajan/saguling,19.56,existing,107.6186,-6.9039,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Larona,165,existing,121.5783,-2.8194,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Lau Renun,82,existing,98.065,3.0824,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Lodoyo - Brantas,4.5,existing,112.2173,-8.1613,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Maninjau III,123,existing,100.152,-0.2923,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Mendalan - Brantas,23,existing,112.3316,-7.854,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Musi,215.475,existing,102.435,-3.766,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Ngebel - Pamekasan,2.2,existing,111.6167,-7.7891,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+PB. Sudirman/Mrica,180.9,existing,109.6054,-7.3927,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Pejengkolan/Mrica,1.4,existing,109.8006,-7.5694,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Plengan/Saguling,6.87,existing,107.6186,-6.9039,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Riam Kanan/pangeran Muhamad Nur,30,existing,115.0074,-3.5156,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Saguling,700.72,existing,107.3663,-6.9126,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Sempor/Mrica,1,existing,109.3331,-7.4733,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Sengguruh - Brantas,29,existing,112.551,-8.1764,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Sidorejo/Mrica,1.4,existing,110.2622,-7.4764,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Sigura gura (asahan II),286,existing,99.2793,2.5196,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Singkarak,175,existing,100.6034,-0.6909,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Sipansihaporas,50,existing,98.7792,1.7427,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Sutami / Karangkates - Brantas,105,existing,112.4443,-8.1606,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Tangga (asahan II),317,existing,99.3028,2.5479,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Timo / Mrica,12,existing,110.4069,-6.9485,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Tulungagung - Brantas,36,existing,111.9025,-8.0657,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Ubrug/saguling,18.36,existing,107.6186,-6.9039,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Ulubelu 1 & 2,110,existing,104.5733,-5.3096,Geothermal,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Wayang Windu,227,existing,107.6258,-7.1966,Geothermal,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Wlingi - Brantas,54,existing,112.3311,-8.0776,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
+Wonorejo - Pamekasan,6.3,existing,112.2869,-8.1136,Hydro,https://datasets.wri.org/dataset/globalpowerplantdatabase
